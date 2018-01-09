@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BritneySpears/.idea/BritneySpears.iml" filepath="$PROJECT_DIR$/../BritneySpears/.idea/BritneySpears.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Classes/.idea/Classes.iml" filepath="$PROJECT_DIR$/../Classes/.idea/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ConditionsInPython/.idea/ConditionsInPython.iml" filepath="$PROJECT_DIR$/../ConditionsInPython/.idea/ConditionsInPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IO/.idea/IO.iml" filepath="$PROJECT_DIR$/../IO/.idea/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Robot-Framework/.idea/Robot-Framework.iml" filepath="$PROJECT_DIR$/../Robot-Framework/.idea/Robot-Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TestProject.iml" filepath="$PROJECT_DIR$/.idea/TestProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Time/.idea/Time.iml" filepath="$PROJECT_DIR$/../Time/.idea/Time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Udemy/.idea/Udemy.iml" filepath="$PROJECT_DIR$/../Udemy/.idea/Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UnboxQuestions/.idea/UnboxQuestions.iml" filepath="$PROJECT_DIR$/../UnboxQuestions/.idea/UnboxQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../database/.idea/database.iml" filepath="$PROJECT_DIR$/../database/.idea/database.iml" />
+    </modules>
+  </component>
+</project>
